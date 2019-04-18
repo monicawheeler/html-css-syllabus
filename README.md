@@ -7,7 +7,11 @@ It is easiest to reach me via email and you should expect a reply within a dayâ€
 
 ## Course Description
 
-In this course, we will learn about the software used to create web pages. We will learn about HTML documents and basic HTML tags. We will learn about using CSS to style HTML documents. We will learn about web standards and code validation. 
+In this course, we will learn about the following:
+* Software used to create web pages
+* HTML documents and basic HTML tags
+* Using CSS to style HTML documents
+* Web standards and code validation
 
 ## Course Goals
 
