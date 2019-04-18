@@ -8,14 +8,14 @@ It is easiest to reach me via email and you should expect a reply within a dayâ€
 ## Course Description
 
 In this course, we will learn about the following:
-* Software used to create web pages
-* HTML documents and basic HTML tags
-* Using CSS to style HTML documents
-* Web standards and code validation
+* What software is used to create web pages
+* How to setup HTML documents and use basic HTML tags
+* How to use CSS to style HTML documents
+* How to comply with web standards and code validation
 
 ## Course Goals
 
-Our goals for this course is to learn to use software to create web pages, create a well-structured HTML document, style that document with CSS, and validate the code is meeting widely accepted standards. 
+Our goals for this course are to understand how to use software to create web pages, create a well-structured HTML document, style that document with CSS, and validate the code is meeting widely accepted standards. 
 
 ## Requirements
 
