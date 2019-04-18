@@ -3,7 +3,7 @@
 ## Instructor: Monica Wheeler
 ## monica.c.wheeler@gmail.com
 
-It is easiest to reach me via email and you should expect a reply within a days time.
+It is easiest to reach me via email and you should expect a reply within a day’s time.
 
 ## Course Description
 
@@ -11,12 +11,12 @@ In this course, we will learn about the software used to create web pages. We wi
 
 ## Course Goals
 
-Our goals for this course is to learn to use software to create web pages, create a well structured HTML document, style that document with CSS, and validate the code is meeting widely accepted standards. 
+Our goals for this course is to learn to use software to create web pages, create a well-structured HTML document, style that document with CSS, and validate the code is meeting widely accepted standards. 
 
-## Requirments
+## Requirements
 
 Comfortable using a computer and access to an internet enabled computer.
 
 ## Class Participation
 
-Development is collobrative process and I encourage everyone to participate and work with each other.
+Development is collaborative process and I encourage everyone to participate and work with each other.
