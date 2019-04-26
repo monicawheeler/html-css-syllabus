@@ -15,7 +15,7 @@ In this course, we will learn about the following:
 
 ## Course Goals
 
-Our goals for this course are to understand how to use software to create web pages, create a well-structured HTML document, style that document with CSS, and validate the code is meeting widely accepted standards. 
+Our goals for this course are to understand how to use the software that creates web pages, create a well-structured HTML document, style that document with CSS, and validate that the code is meeting widely accepted standards. 
 
 ## Requirements
 
