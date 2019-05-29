@@ -1,5 +1,5 @@
 # Getting Started with HTML/CSS
-## Fall 2019 - Wednesday nights or Friday anytime during the day
+## Fall 2019 - Wednesday evening
 ## Instructor: Monica Wheeler
 ## monica.c.wheeler@gmail.com
 
